@@ -1,0 +1,22 @@
+.highlight {
+  border-radius: 0.4rem;x
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  background-color: lightblue;
+
+}
+.bold {
+  padding-left: 1rem;
+  padding-right:1rem;
+  font-weight: 700;
+}
+
+.blue {
+
+  color: black;
+}
+.*{
+backgroundColor="#a09b3f"
+secondaryBackgroundColor="#a09b3f"
+textColor="#45486d"
+}
